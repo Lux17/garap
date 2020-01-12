@@ -2,7 +2,7 @@
 
 error_reporting(0);
 echo "\t ======================================= \n";
-echo "\t          created by mr.r0bot            \n";
+echo "\t          created by xdrsyah            \n";
 echo "\t ======================================= \n";
 
 echo "[1] xtrap wifi.id \n";
